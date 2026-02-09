@@ -1,0 +1,19 @@
+3 3
+l_alice emp1
+l_bob emp2
+l_charlie emp3
+n_a1 emp1
+n_b2 emp2
+n_c3 emp3
+6
+L l_alice login
+N n_a1 upload
+L l_bob login
+N n_a1 login
+N n_c3 export
+L l_charlie view
+4
+emp1
+emp2
+emp3
+emp4
